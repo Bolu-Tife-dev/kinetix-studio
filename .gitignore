@@ -1,0 +1,9 @@
+node_modules/
+dist/
+dist-main/
+release/
+vendor/
+*.log
+.DS_Store
+coverage/
+.kinetix-audio-*.wav
